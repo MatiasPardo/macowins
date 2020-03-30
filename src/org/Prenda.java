@@ -44,6 +44,11 @@ public class Prenda {
 		this.valor = valor;
 	}
 
+	public BigDecimal getValorSegunEstado() {
+		return this.valor;
+				
+	}
+
 
 	
 	
